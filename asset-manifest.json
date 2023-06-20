@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/icea-onboarding-ui/static/js/main.bb4de2bb.js",
+    "index.html": "/icea-onboarding-ui/index.html",
+    "main.bb4de2bb.js.map": "/icea-onboarding-ui/static/js/main.bb4de2bb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bb4de2bb.js"
+  ]
+}
