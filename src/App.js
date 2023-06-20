@@ -10,13 +10,13 @@ function App() {
   return (
     <div>
       <h1>Welcome to My React App</h1>
-      <input
+      {/* <input
         type="text"
         placeholder="Enter your name"
         value={name}
         onChange={handleChange}
       />
-      <p>Hello, {name || 'stranger'}!</p>
+      <p>Hello, {name || 'stranger'}!</p> */}
     </div>
   );
 }
